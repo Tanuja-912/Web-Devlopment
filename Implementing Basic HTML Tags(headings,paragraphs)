@@ -1,0 +1,44 @@
+<!-- Creating BookMarks --!>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My BookMarks</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #d234718c;
+            margin: 20px;
+        }
+        h1 {
+            color: #000000;
+        }
+        h2 {
+            color: #000000;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+    <h1>My BookMarks</h1>
+    <h2>Primary BookMarks</h2>
+    <p><a target="_blank" href = "https://www.google.com/"> Open Google</a></p>
+    <p><a target="_blank" href = "https://www.facebook.com/"> Open Facebook</a></p>      
+    <p><a target="_blank" href = "https://www.youtube.com/"> Open YouTube</a></p>
+    <p><a target="_blank" href = "https://www.instagram.com/"> Open Instagram</a></p>
+    <p><a target="_blank" href = "https://www.twitter.com/"> Open Twitter</a></p>
+    <h2>Secondary BookMarks</h2>
+    <p><a target="_blank" href = "https://www.wikipedia.com/"> Open Wikipedia</a></p>
+    <p><a target="_blank" href = "https://www.stackoverflow.com/"> Open Stack Overflow</a></p>
+</body>
+</html>
